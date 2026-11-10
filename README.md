@@ -8,3 +8,5 @@ To try it, label an issue with `factory/ready`.
 Profile decisions are visible in the room task status.
 
 This repository is public on purpose: the demo needs no secret, and anyone can read what the factory did.
+
+Observe mode records a profile recommendation without applying it.
