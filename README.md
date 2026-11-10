@@ -8,3 +8,4 @@ To try it, label an issue with `factory/ready`.
 This repository is public on purpose: the demo needs no secret, and anyone can read what the factory did.
 
 Profile decisions are visible in the room task status.
+A recorded recommendation does not change the active profile in observe mode.
