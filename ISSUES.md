@@ -16,3 +16,5 @@ Labels: documentation
 
 `README.md` says what the repository is, but not what it is for. Add one sentence that says it: a safe place
 to watch the Agent Factory work on small issues.
+
+Teams can compare profile recommendations with the profiles actually used.
